@@ -1,2 +1,2 @@
-# first time making a web page in plain html and css
+# a kinda healthy recipes to make(ps: they suck !)
 # enjoy !
